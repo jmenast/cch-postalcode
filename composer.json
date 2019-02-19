@@ -1,0 +1,14 @@
+{
+    "name": "jmenast/cch-postalcode",
+    "description": "Get Postal Code of DB Correos de Chile",
+    "require": {
+        "fabpot/goutte": "^3.2@dev"
+    },
+    "authors": [
+        {
+            "name": "Julio A. Mena Pinto",
+            "email": "julio.mena@alnus.cl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
