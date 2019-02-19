@@ -10,5 +10,10 @@
             "email": "julio.mena@alnus.cl"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "CchPostalcode": "src/"
+        }
+    }
 }
