@@ -15,5 +15,9 @@
         "psr-0": {
             "CchPostalcode": "src/"
         }
-    }
+    },
+    "license": [
+       "LGPL-2.1-only",
+       "GPL-3.0-or-later"
+    ]
 }
